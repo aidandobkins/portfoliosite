@@ -247,7 +247,7 @@
 
 #moviebtn:hover {
     transition: 0.5s;
-    background-color: rgb(91, 156, 255);
+    background-color: rgba(170, 90, 240, 0.75);
     border-color: green;
     box-shadow: 0 0 0 4px green;
 }
